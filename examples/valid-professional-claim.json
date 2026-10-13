@@ -1,0 +1,1 @@
+{"resourceType":"Claim","status":"active","patient":{"reference":"Patient/p1"},"item":[{"sequence":1}]}
